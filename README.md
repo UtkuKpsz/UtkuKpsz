@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Utku</h1>
 
-- I am a junior engineering student skilled in Python and SQL. I currently participate in a graduation project
-related to machine learning. I want to improve myself in the field of artificial intelligence and participate in an
-internship program to complete my compulsory internship.
+- I am an engineering student skilled in Python and SQL.
 
 <h3 align="left">Social:</h3>
 <p align="left">
