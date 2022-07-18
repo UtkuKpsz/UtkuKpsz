@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Utku</h1>
 
-- I am an engineering student skilled in Python and SQL.
+- Engineering student who is skilled in Python and SQL
 
 <h3 align="left">Social:</h3>
 <p align="left">
